@@ -1,0 +1,6 @@
+D:\coding\vs\HoldToSell\HoldToSell\bin\Debug\HoldToSell.dll
+D:\coding\vs\HoldToSell\HoldToSell\bin\Debug\HoldToSell.pdb
+D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.csproj.AssemblyReference.cache
+D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.csproj.CoreCompileInputs.cache
+D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.dll
+D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.pdb

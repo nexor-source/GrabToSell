@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\coding\\vs\\HoldToSell\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\GrabToSell\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5833E1B-C172-4F1F-A945-D34035FDC8C0}|HoldToSell\\HoldToSell.csproj|d:\\coding\\vs\\holdtosell\\holdtosell\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5833E1B-C172-4F1F-A945-D34035FDC8C0}|HoldToSell\\HoldToSell.csproj|c:\\users\\admin\\documents\\github\\grabtosell\\holdtosell\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5833E1B-C172-4F1F-A945-D34035FDC8C0}|HoldToSell\\HoldToSell.csproj|solutionrelative:holdtosell\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\coding\\vs\\HoldToSell\\HoldToSell\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\GrabToSell\\HoldToSell\\Class1.cs",
               "RelativeDocumentMoniker": "HoldToSell\\Class1.cs",
-              "ToolTip": "D:\\coding\\vs\\HoldToSell\\HoldToSell\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\GrabToSell\\HoldToSell\\Class1.cs",
               "RelativeToolTip": "HoldToSell\\Class1.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAYwG8AAAAVAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAI4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T20:14:37.108Z",
               "EditorCaption": ""

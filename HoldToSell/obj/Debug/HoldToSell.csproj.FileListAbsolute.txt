@@ -4,3 +4,9 @@ D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.csproj.AssemblyReference
 D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.csproj.CoreCompileInputs.cache
 D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.dll
 D:\coding\vs\HoldToSell\HoldToSell\obj\Debug\HoldToSell.pdb
+C:\Users\ADMIN\Documents\GitHub\GrabToSell\HoldToSell\bin\Debug\HoldToSell.dll
+C:\Users\ADMIN\Documents\GitHub\GrabToSell\HoldToSell\bin\Debug\HoldToSell.pdb
+C:\Users\ADMIN\Documents\GitHub\GrabToSell\HoldToSell\obj\Debug\HoldToSell.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\GrabToSell\HoldToSell\obj\Debug\HoldToSell.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\GrabToSell\HoldToSell\obj\Debug\HoldToSell.dll
+C:\Users\ADMIN\Documents\GitHub\GrabToSell\HoldToSell\obj\Debug\HoldToSell.pdb
